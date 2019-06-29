@@ -5,5 +5,5 @@ task :start do
 end
 
 def jekyll(directives = '')
-  sh 'jekyll ' + directives
+  sh 'bundle exec jekyll ' + directives
 end
