@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Monster Hunter World in DnD 5e: The Premise"
+date:   2019-07-28 21:45:00 -0400
+categories: dnd homebrew mhw
+---
+## tl;dr
+Monster Hunter: World is a game about killing huge monsters as a team. Sound familiar? To begin this article series we are going to discuss some of the features of a setting and homebrew system to bring the same feeling of playing Monster Hunter to 5e.
+
+## Monster Hunter: World, A Quick Run-Down
+Monster Hunter: World is about a team of researchers, known as "Fleets", making their way to the new world to investigate and study its ecology and resources. As a "Hunter" of the 5th Fleet, you and your "Handler", your quirky companion that seems to be the brain to your brawn, go out into different regions of the new world to research, hunt, and capture resources. These resources can be everything from Wyvern eggs to Monsters so large they pose a risk to the entire ecosystem of the New World if not hunted.
+
+When in missions you are with other hunters (if queueing multiplayer) and with your Palicos, cat companions that act as a support to your damage in the form of healing and distracting the monster. You begin at a camp, prep up with a good meal for some stats, and set out to wack some giant creatures with comically large weapons. Most of these creatures have basic gimmicks/themes to them that you can learn over time to get an edge. And over time, you can use the parts of your hunted giant creatures to craft weapons, armor, and whatever else you might need.
+
+## Okay, let's break that down
+So just from that synopsis, we have a pretty good idea of what makes MHW tick as a game. To begin, quite obviously, **we gotta hunt some giant ass monsters**. These monsters are (usually) many times larger than the hunters, but a dynamic range can keep things feeling organic. This exact thing is implemented in the game, with monsters having a specific size attached to them, measuring their length/height.
+
+As well, these monsters are usually either much slower than the hunters to give time to react or choreographed well enough to give some warning for the players. So with that, we see that we either need to look into a way of better describing precise moves to give our players enough time to react.
+
+Finally, monsters leave tracks as they walk around their given environment, allowing hunters to *track* them to their exact location. Something similar could be good for added suspense of *where is the monster* as well as allow for the setting of traps if they know it is coming.
+
+### Hunters
+Next, on the list, we have the general idea of a hunter. **What makes someone a hunter?** Within the game, Hunters appear to be these well-trained survivalists that never seem to be "out of their element" when it comes to navigating the world and seem to be able to wield any weapon they desire. Classes aside (we'll take a look at those later), this comes down to a few things:
+
+- PCs have "had the training" to embrace their environments with ease (or not! A rookie team in this setting could be lots of fun)
+- No weapons are off-limits for hunters.
+
+The first point opens up some doors within the design of the environment. Instead of the usual convention that the environment around the players is meant as an obstacle between point A and B (think traveling between towns), now with the PCs expertise, the environment can work with the player. This may mean local fauna around to make a vine trap, or being able to travel between point A and B easier by taking to the trees. MHW implements this with the local collectible plantlife all having uses (healing, traps, ammo, etc) as well as an intricate network of caves and treeways that are too small for the monsters to take.
+
+### Handlers
+While you can't play Handlers in-game, I believe playing a Handler would be a lot of fun in this situation! Handlers are large tomes of knowledge on the monsters you're hunting, but in-game usually sit out the actual fighting. For this homebrew system, I think they should be able to get closer to the action. They would be the supports for the team, being able to point out weak spots on the monsters and buffing their hunters.
+
+More likely than not, the idea of a hunter always being paired with a handler 1:1 will not work for a group sitting down to play. Support isn't everyone's cup of tea, so damage balances shouldn't break down if the hunter/handler ratio is out of wack.
+
+### Palicos
+Within MHW, Palicos are there to support you in games where less than 4 Hunters are playing. This makes me question their usefulness in this setting, especially if someone is playing a Handler. Therefore, we'll come back to them once we start talking classes. (Beast Master Companion?)
+
+### Setting
+The themes and settings of Monster Hunter World are mostly oriented around "being within nature". The research home base is all open-air and made of reclaimed ship parts, your base camps within regions are tiny nooks with sprawled out resources, and other than the use of gunpowder and steam there isn't any "advanced technology" to be seen. So, a pretty standard setting might be a home base in the style of a research base, with missions based around going out into different regions to obtain something.
+
+Of course, there can be a lot of really cool remixes to this! (Which is why I wanted to develop this system!) Off the top of my head here are a few:
+
+- The party is the "First Fleet" and are the ones having to develop the research base and manage others.
+- The base is in danger by a very dangerous monster and needs to become cunning and powerful enough to defeat it.
+- The party is are the newest fleet coming in and need to prove themselves to the rest of the hunters.
+
+### Advancing
+Unlike standard 5e, MHW does a ton when it comes to the progression of weapons and armor. Instead of simple enchantments, hunters work through tiers of armor and weapons to keep up with more and more dangerous monsters. However, in an important twist, **technically if you're just good enough you don't need the better armor**. You may get one shot by the monsters, but if you don't get hit you can prevail. This is important for the design of encounters and style of play, the ability to give the players the time to react and learn how to react to certain, known monsters. This doesn't just make the players feel good when they learn the manners of a certain beast but can enact a sense of dread when encountering something completely new.
+
+### What's Next
+
+Let's recap some of the more important points we need to account for:
+
+- Monsters are big but predictable, and all come with their unique challenges to face
+- Hunters are versatile and good in their environment and should feel that way when playing
+- Handlers should have the capacity to make a big impact on their team in terms of support
+- Palicos have their place as a support, but shouldn't take away from PC Handlers
+- A lot of the setting should be based around nature and using nature's resources
+- Players should be able to play well instead of being forced to be over equip
+
+With this all in mind, we can dive into specifics *soon*. I'm thinking of starting with Hunter and Handler classes, then Monsters, then some gameplay details.
