@@ -219,7 +219,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
-    rake (11.3.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -253,7 +253,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-whiteglass
-  rake (~> 11.2, >= 11.2.2)
+  rake (~> 12.3)
   tzinfo-data
 
 BUNDLED WITH
